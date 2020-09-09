@@ -1,4 +1,4 @@
-<h3>This is Bank Loan Prediction using Machine Learning in Django Platform.<h3>
+<h3>This is Bank Loan Prediction using Machine Learning in Django Platform.</h3>
   I have used following technologies for this project:<br>
   a. Django <br>
   b. Django REST Framework<br>
